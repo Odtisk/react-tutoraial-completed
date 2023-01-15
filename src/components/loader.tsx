@@ -1,0 +1,1 @@
+export const Loader = () => <p className='text-center' > Loading...</p>;
